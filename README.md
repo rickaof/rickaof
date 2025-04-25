@@ -75,8 +75,6 @@ A complete data analytics project based on the real Brazilian ecommerce dataset 
 
 I’m deeply passionate about applying data to improve processes, uncover insights and support decision-making. Coming from an engineering background, I value precision, structure, and logic — and I bring those values into every data project I work on. My goal is to work in a collaborative environment where I can keep growing as a data professional and contribute with impact.
 
-> "Turn data into direction, and direction into action."
-
 ---
 
 🧠 *Thank you for visiting my GitHub. Feel free to explore my projects or get in touch!*
