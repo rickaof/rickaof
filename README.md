@@ -50,7 +50,7 @@ A complete data analytics project based on the real Brazilian ecommerce dataset 
 - 🧠 **AWS Cloud Practitioner – AWS**  
 - ♻️ **Scrum Fundamentals Certified – SCRUMstudy**  
 - 👨‍💼 **Agile Project Management – Udemy**  
-- 🐍 **Python for Beginners – Curso em Vídeo**  
+- 🐍 **Python – Curso em Vídeo**  
 - 📊 **JIRA: Agile, Scrum and Kanban – Udemy**
 
 ---
