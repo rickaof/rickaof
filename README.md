@@ -16,7 +16,7 @@ I'm a **Mechanical Engineer** graduated from UFMG, currently transitioning into 
 
 ## ✨ Projects
 
-### 📦 [Ecommerce Delivery Delay Analysis – Olist Dataset](https://github.com/rickaof/Portfolio/tree/main/Ecommerce_Analysis)
+### 📦 [Ecommerce Delivery Delay Analysis – Olist Dataset](https://github.com/rickaof/Olist_Ecommerce_Analysis)
 
 A complete data analytics project based on the real Brazilian ecommerce dataset **Olist**. This project includes:
 
